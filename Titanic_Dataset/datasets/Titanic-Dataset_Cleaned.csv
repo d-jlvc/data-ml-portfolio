@@ -1,0 +1,890 @@
+PassengerId,Title,Name,Sex,Age,FamilyStatus,Class,Fare,Survived
+1,Mr,"Braund, Mr. Owen Harris",male,22.0,with_family,3,7.25,no
+2,Mrs,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,with_family,1,71.2833,yes
+3,Miss,"Heikkinen, Miss. Laina",female,26.0,single,3,7.925,yes
+4,Mrs,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35.0,with_family,1,53.1,yes
+5,Mr,"Allen, Mr. William Henry",male,35.0,single,3,8.05,no
+6,Mr,"Moran, Mr. James",male,29.699118,single,3,8.4583,no
+7,Mr,"McCarthy, Mr. Timothy J",male,54.0,single,1,51.8625,no
+8,Mr,"Palsson, Master. Gosta Leonard",male,2.0,with_family,3,21.075,no
+9,Mrs,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27.0,with_family,3,11.1333,yes
+10,Mrs,"Nasser, Mrs. Nicholas (Adele Achem)",female,14.0,with_family,2,30.0708,yes
+11,Miss,"Sandstrom, Miss. Marguerite Rut",female,4.0,with_family,3,16.7,yes
+12,Miss,"Bonnell, Miss. Elizabeth",female,58.0,single,1,26.55,yes
+13,Mr,"Saundercock, Mr. William Henry",male,20.0,single,3,8.05,no
+14,Mr,"Andersson, Mr. Anders Johan",male,39.0,with_family,3,31.275,no
+15,Miss,"Vestrom, Miss. Hulda Amanda Adolfina",female,14.0,single,3,7.8542,no
+16,Mrs,"Hewlett, Mrs. (Mary D Kingcome) ",female,55.0,single,2,16.0,yes
+17,Mr,"Rice, Master. Eugene",male,2.0,with_family,3,29.125,no
+18,Mr,"Williams, Mr. Charles Eugene",male,29.699118,single,2,13.0,yes
+19,Mrs,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31.0,with_family,3,18.0,no
+20,Mrs,"Masselmani, Mrs. Fatima",female,29.699118,single,3,7.225,yes
+21,Mr,"Fynney, Mr. Joseph J",male,35.0,single,2,26.0,no
+22,Mr,"Beesley, Mr. Lawrence",male,34.0,single,2,13.0,yes
+23,Miss,"McGowan, Miss. Anna ""Annie""",female,15.0,single,3,8.0292,yes
+24,Mr,"Sloper, Mr. William Thompson",male,28.0,single,1,35.5,yes
+25,Miss,"Palsson, Miss. Torborg Danira",female,8.0,with_family,3,21.075,no
+26,Mrs,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38.0,with_family,3,31.3875,yes
+27,Mr,"Emir, Mr. Farred Chehab",male,29.699118,single,3,7.225,no
+28,Mr,"Fortune, Mr. Charles Alexander",male,19.0,with_family,1,263.0,no
+29,Miss,"O'Dwyer, Miss. Ellen ""Nellie""",female,29.699118,single,3,7.8792,yes
+30,Mr,"Todoroff, Mr. Lalio",male,29.699118,single,3,7.8958,no
+31,Mr,"Uruchurtu, Don. Manuel E",male,40.0,single,1,27.7208,no
+32,Mrs,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,29.699118,with_family,1,146.5208,yes
+33,Miss,"Glynn, Miss. Mary Agatha",female,29.699118,single,3,7.75,yes
+34,Mr,"Wheadon, Mr. Edward H",male,66.0,single,2,10.5,no
+35,Mr,"Meyer, Mr. Edgar Joseph",male,28.0,with_family,1,82.1708,no
+36,Mr,"Holverson, Mr. Alexander Oskar",male,42.0,with_family,1,52.0,no
+37,Mr,"Mamee, Mr. Hanna",male,29.699118,single,3,7.2292,yes
+38,Mr,"Cann, Mr. Ernest Charles",male,21.0,single,3,8.05,no
+39,Miss,"Vander Planke, Miss. Augusta Maria",female,18.0,with_family,3,18.0,no
+40,Miss,"Nicola-Yarred, Miss. Jamila",female,14.0,with_family,3,11.2417,yes
+41,Mrs,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40.0,with_family,3,9.475,no
+42,Mrs,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27.0,with_family,2,21.0,no
+43,Mr,"Kraeff, Mr. Theodor",male,29.699118,single,3,7.8958,no
+44,Miss,"Laroche, Miss. Simonne Marie Anne Andree",female,3.0,with_family,2,41.5792,yes
+45,Miss,"Devaney, Miss. Margaret Delia",female,19.0,single,3,7.8792,yes
+46,Mr,"Rogers, Mr. William John",male,29.699118,single,3,8.05,no
+47,Mr,"Lennon, Mr. Denis",male,29.699118,with_family,3,15.5,no
+48,Miss,"O'Driscoll, Miss. Bridget",female,29.699118,single,3,7.75,yes
+49,Mr,"Samaan, Mr. Youssef",male,29.699118,with_family,3,21.6792,no
+50,Mrs,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18.0,with_family,3,17.8,no
+51,Mr,"Panula, Master. Juha Niilo",male,7.0,with_family,3,39.6875,no
+52,Mr,"Nosworthy, Mr. Richard Cater",male,21.0,single,3,7.8,no
+53,Mrs,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49.0,with_family,1,76.7292,yes
+54,Mrs,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29.0,with_family,2,26.0,yes
+55,Mr,"Ostby, Mr. Engelhart Cornelius",male,65.0,with_family,1,61.9792,no
+56,Mr,"Woolner, Mr. Hugh",male,29.699118,single,1,35.5,yes
+57,Miss,"Rugg, Miss. Emily",female,21.0,single,2,10.5,yes
+58,Mr,"Novel, Mr. Mansouer",male,28.5,single,3,7.2292,no
+59,Miss,"West, Miss. Constance Mirium",female,5.0,with_family,2,27.75,yes
+60,Mr,"Goodwin, Master. William Frederick",male,11.0,with_family,3,46.9,no
+61,Mr,"Sirayanian, Mr. Orsen",male,22.0,single,3,7.2292,no
+63,Mr,"Harris, Mr. Henry Birkhardt",male,45.0,with_family,1,83.475,no
+64,Mr,"Skoog, Master. Harald",male,4.0,with_family,3,27.9,no
+65,Mr,"Stewart, Mr. Albert A",male,29.699118,single,1,27.7208,no
+66,Mr,"Moubarek, Master. Gerios",male,29.699118,with_family,3,15.2458,yes
+67,Mrs,"Nye, Mrs. (Elizabeth Ramell)",female,29.0,single,2,10.5,yes
+68,Mr,"Crease, Mr. Ernest James",male,19.0,single,3,8.1583,no
+69,Miss,"Andersson, Miss. Erna Alexandra",female,17.0,with_family,3,7.925,yes
+70,Mr,"Kink, Mr. Vincenz",male,26.0,with_family,3,8.6625,no
+71,Mr,"Jenkin, Mr. Stephen Curnow",male,32.0,single,2,10.5,no
+72,Miss,"Goodwin, Miss. Lillian Amy",female,16.0,with_family,3,46.9,no
+73,Mr,"Hood, Mr. Ambrose Jr",male,21.0,single,2,73.5,no
+74,Mr,"Chronopoulos, Mr. Apostolos",male,26.0,with_family,3,14.4542,no
+75,Mr,"Bing, Mr. Lee",male,32.0,single,3,56.4958,yes
+76,Mr,"Moen, Mr. Sigurd Hansen",male,25.0,single,3,7.65,no
+77,Mr,"Staneff, Mr. Ivan",male,29.699118,single,3,7.8958,no
+78,Mr,"Moutal, Mr. Rahamin Haim",male,29.699118,single,3,8.05,no
+79,Mr,"Caldwell, Master. Alden Gates",male,0.83,with_family,2,29.0,yes
+80,Miss,"Dowdell, Miss. Elizabeth",female,30.0,single,3,12.475,yes
+81,Mr,"Waelens, Mr. Achille",male,22.0,single,3,9.0,no
+82,Mr,"Sheerlinck, Mr. Jan Baptist",male,29.0,single,3,9.5,yes
+83,Miss,"McDermott, Miss. Brigdet Delia",female,29.699118,single,3,7.7875,yes
+84,Mr,"Carrau, Mr. Francisco M",male,28.0,single,1,47.1,no
+85,Miss,"Ilett, Miss. Bertha",female,17.0,single,2,10.5,yes
+86,Mrs,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33.0,with_family,3,15.85,yes
+87,Mr,"Ford, Mr. William Neal",male,16.0,with_family,3,34.375,no
+88,Mr,"Slocovski, Mr. Selman Francis",male,29.699118,single,3,8.05,no
+89,Miss,"Fortune, Miss. Mabel Helen",female,23.0,with_family,1,263.0,yes
+90,Mr,"Celotti, Mr. Francesco",male,24.0,single,3,8.05,no
+91,Mr,"Christmann, Mr. Emil",male,29.0,single,3,8.05,no
+92,Mr,"Andreasson, Mr. Paul Edvin",male,20.0,single,3,7.8542,no
+93,Mr,"Chaffee, Mr. Herbert Fuller",male,46.0,with_family,1,61.175,no
+94,Mr,"Dean, Mr. Bertram Frank",male,26.0,with_family,3,20.575,no
+95,Mr,"Coxon, Mr. Daniel",male,59.0,single,3,7.25,no
+96,Mr,"Shorney, Mr. Charles Joseph",male,29.699118,single,3,8.05,no
+97,Mr,"Goldschmidt, Mr. George B",male,71.0,single,1,34.6542,no
+98,Mr,"Greenfield, Mr. William Bertram",male,23.0,with_family,1,63.3583,yes
+99,Mrs,"Doling, Mrs. John T (Ada Julia Bone)",female,34.0,with_family,2,23.0,yes
+100,Mr,"Kantor, Mr. Sinai",male,34.0,with_family,2,26.0,no
+101,Miss,"Petranec, Miss. Matilda",female,28.0,single,3,7.8958,no
+102,Mr,"Petroff, Mr. Pastcho (""Pentcho"")",male,29.699118,single,3,7.8958,no
+103,Mr,"White, Mr. Richard Frasar",male,21.0,with_family,1,77.2875,no
+104,Mr,"Johansson, Mr. Gustaf Joel",male,33.0,single,3,8.6542,no
+105,Mr,"Gustafsson, Mr. Anders Vilhelm",male,37.0,with_family,3,7.925,no
+106,Mr,"Mionoff, Mr. Stoytcho",male,28.0,single,3,7.8958,no
+107,Miss,"Salkjelsvik, Miss. Anna Kristine",female,21.0,single,3,7.65,yes
+108,Mr,"Moss, Mr. Albert Johan",male,29.699118,single,3,7.775,yes
+109,Mr,"Rekic, Mr. Tido",male,38.0,single,3,7.8958,no
+110,Miss,"Moran, Miss. Bertha",female,29.699118,with_family,3,24.15,yes
+111,Mr,"Porter, Mr. Walter Chamberlain",male,47.0,single,1,52.0,no
+112,Miss,"Zabour, Miss. Hileni",female,14.5,with_family,3,14.4542,no
+113,Mr,"Barton, Mr. David John",male,22.0,single,3,8.05,no
+114,Miss,"Jussila, Miss. Katriina",female,20.0,with_family,3,9.825,no
+115,Miss,"Attalah, Miss. Malake",female,17.0,single,3,14.4583,no
+116,Mr,"Pekoniemi, Mr. Edvard",male,21.0,single,3,7.925,no
+117,Mr,"Connors, Mr. Patrick",male,70.5,single,3,7.75,no
+118,Mr,"Turpin, Mr. William John Robert",male,29.0,with_family,2,21.0,no
+119,Mr,"Baxter, Mr. Quigg Edmond",male,24.0,with_family,1,247.5208,no
+120,Miss,"Andersson, Miss. Ellis Anna Maria",female,2.0,with_family,3,31.275,no
+121,Mr,"Hickman, Mr. Stanley George",male,21.0,with_family,2,73.5,no
+122,Mr,"Moore, Mr. Leonard Charles",male,29.699118,single,3,8.05,no
+123,Mr,"Nasser, Mr. Nicholas",male,32.5,with_family,2,30.0708,no
+124,Miss,"Webber, Miss. Susan",female,32.5,single,2,13.0,yes
+125,Mr,"White, Mr. Percival Wayland",male,54.0,with_family,1,77.2875,no
+126,Mr,"Nicola-Yarred, Master. Elias",male,12.0,with_family,3,11.2417,yes
+127,Mr,"McMahon, Mr. Martin",male,29.699118,single,3,7.75,no
+128,Mr,"Madsen, Mr. Fridtjof Arne",male,24.0,single,3,7.1417,yes
+129,Miss,"Peter, Miss. Anna",female,29.699118,with_family,3,22.3583,yes
+130,Mr,"Ekstrom, Mr. Johan",male,45.0,single,3,6.975,no
+131,Mr,"Drazenoic, Mr. Jozef",male,33.0,single,3,7.8958,no
+132,Mr,"Coelho, Mr. Domingos Fernandeo",male,20.0,single,3,7.05,no
+133,Mrs,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47.0,with_family,3,14.5,no
+134,Mrs,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29.0,with_family,2,26.0,yes
+135,Mr,"Sobey, Mr. Samuel James Hayden",male,25.0,single,2,13.0,no
+136,Mr,"Richard, Mr. Emile",male,23.0,single,2,15.0458,no
+137,Miss,"Newsom, Miss. Helen Monypeny",female,19.0,with_family,1,26.2833,yes
+138,Mr,"Futrelle, Mr. Jacques Heath",male,37.0,with_family,1,53.1,no
+139,Mr,"Osen, Mr. Olaf Elon",male,16.0,single,3,9.2167,no
+140,Mr,"Giglio, Mr. Victor",male,24.0,single,1,79.2,no
+141,Mrs,"Boulos, Mrs. Joseph (Sultana)",female,29.699118,with_family,3,15.2458,no
+142,Miss,"Nysten, Miss. Anna Sofia",female,22.0,single,3,7.75,yes
+143,Mrs,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24.0,with_family,3,15.85,yes
+144,Mr,"Burke, Mr. Jeremiah",male,19.0,single,3,6.75,no
+145,Mr,"Andrew, Mr. Edgardo Samuel",male,18.0,single,2,11.5,no
+146,Mr,"Nicholls, Mr. Joseph Charles",male,19.0,with_family,2,36.75,no
+147,Mr,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27.0,single,3,7.7958,yes
+148,Miss,"Ford, Miss. Robina Maggie ""Ruby""",female,9.0,with_family,3,34.375,no
+149,Mr,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36.5,with_family,2,26.0,no
+150,Mr,"Byles, Rev. Thomas Roussel Davids",male,42.0,single,2,13.0,no
+151,Mr,"Bateman, Rev. Robert James",male,51.0,single,2,12.525,no
+152,Mrs,"Pears, Mrs. Thomas (Edith Wearne)",female,22.0,with_family,1,66.6,yes
+153,Mr,"Meo, Mr. Alfonzo",male,55.5,single,3,8.05,no
+154,Mr,"van Billiard, Mr. Austin Blyler",male,40.5,with_family,3,14.5,no
+155,Mr,"Olsen, Mr. Ole Martin",male,29.699118,single,3,7.3125,no
+156,Mr,"Williams, Mr. Charles Duane",male,51.0,with_family,1,61.3792,no
+157,Miss,"Gilnagh, Miss. Katherine ""Katie""",female,16.0,single,3,7.7333,yes
+158,Mr,"Corn, Mr. Harry",male,30.0,single,3,8.05,no
+159,Mr,"Smiljanic, Mr. Mile",male,29.699118,single,3,8.6625,no
+160,Mr,"Sage, Master. Thomas Henry",male,29.699118,with_family,3,69.55,no
+161,Mr,"Cribb, Mr. John Hatfield",male,44.0,with_family,3,16.1,no
+162,Mrs,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40.0,single,2,15.75,yes
+163,Mr,"Bengtsson, Mr. John Viktor",male,26.0,single,3,7.775,no
+164,Mr,"Calic, Mr. Jovo",male,17.0,single,3,8.6625,no
+165,Mr,"Panula, Master. Eino Viljami",male,1.0,with_family,3,39.6875,no
+166,Mr,"Goldsmith, Master. Frank John William ""Frankie""",male,9.0,with_family,3,20.525,yes
+167,Mrs,"Chibnall, Mrs. (Edith Martha Bowerman)",female,29.699118,with_family,1,55.0,yes
+168,Mrs,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45.0,with_family,3,27.9,no
+169,Mr,"Baumann, Mr. John D",male,29.699118,single,1,25.925,no
+170,Mr,"Ling, Mr. Lee",male,28.0,single,3,56.4958,no
+171,Mr,"Van der hoef, Mr. Wyckoff",male,61.0,single,1,33.5,no
+172,Mr,"Rice, Master. Arthur",male,4.0,with_family,3,29.125,no
+173,Miss,"Johnson, Miss. Eleanor Ileen",female,1.0,with_family,3,11.1333,yes
+174,Mr,"Sivola, Mr. Antti Wilhelm",male,21.0,single,3,7.925,no
+175,Mr,"Smith, Mr. James Clinch",male,56.0,single,1,30.6958,no
+176,Mr,"Klasen, Mr. Klas Albin",male,18.0,with_family,3,7.8542,no
+177,Mr,"Lefebre, Master. Henry Forbes",male,29.699118,with_family,3,25.4667,no
+178,Miss,"Isham, Miss. Ann Elizabeth",female,50.0,single,1,28.7125,no
+179,Mr,"Hale, Mr. Reginald",male,30.0,single,2,13.0,no
+180,Mr,"Leonard, Mr. Lionel",male,36.0,single,3,0.0,no
+181,Miss,"Sage, Miss. Constance Gladys",female,29.699118,with_family,3,69.55,no
+182,Mr,"Pernot, Mr. Rene",male,29.699118,single,2,15.05,no
+183,Mr,"Asplund, Master. Clarence Gustaf Hugo",male,9.0,with_family,3,31.3875,no
+184,Mr,"Becker, Master. Richard F",male,1.0,with_family,2,39.0,yes
+185,Miss,"Kink-Heilmann, Miss. Luise Gretchen",female,4.0,with_family,3,22.025,yes
+186,Mr,"Rood, Mr. Hugh Roscoe",male,29.699118,single,1,50.0,no
+187,Mrs,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,29.699118,with_family,3,15.5,yes
+188,Mr,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45.0,single,1,26.55,yes
+189,Mr,"Bourke, Mr. John",male,40.0,with_family,3,15.5,no
+190,Mr,"Turcin, Mr. Stjepan",male,36.0,single,3,7.8958,no
+191,Mrs,"Pinsky, Mrs. (Rosa)",female,32.0,single,2,13.0,yes
+192,Mr,"Carbines, Mr. William",male,19.0,single,2,13.0,no
+193,Miss,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19.0,with_family,3,7.8542,yes
+194,Mr,"Navratil, Master. Michel M",male,3.0,with_family,2,26.0,yes
+195,Mrs,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44.0,single,1,27.7208,yes
+196,Miss,"Lurette, Miss. Elise",female,58.0,single,1,146.5208,yes
+197,Mr,"Mernagh, Mr. Robert",male,29.699118,single,3,7.75,no
+198,Mr,"Olsen, Mr. Karl Siegwart Andreas",male,42.0,with_family,3,8.4042,no
+199,Miss,"Madigan, Miss. Margaret ""Maggie""",female,29.699118,single,3,7.75,yes
+200,Miss,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24.0,single,2,13.0,no
+201,Mr,"Vande Walle, Mr. Nestor Cyriel",male,28.0,single,3,9.5,no
+202,Mr,"Sage, Mr. Frederick",male,29.699118,with_family,3,69.55,no
+203,Mr,"Johanson, Mr. Jakob Alfred",male,34.0,single,3,6.4958,no
+204,Mr,"Youseff, Mr. Gerious",male,45.5,single,3,7.225,no
+205,Mr,"Cohen, Mr. Gurshon ""Gus""",male,18.0,single,3,8.05,yes
+206,Miss,"Strom, Miss. Telma Matilda",female,2.0,with_family,3,10.4625,no
+207,Mr,"Backstrom, Mr. Karl Alfred",male,32.0,with_family,3,15.85,no
+208,Mr,"Albimona, Mr. Nassef Cassem",male,26.0,single,3,18.7875,yes
+209,Miss,"Carr, Miss. Helen ""Ellen""",female,16.0,single,3,7.75,yes
+210,Mr,"Blank, Mr. Henry",male,40.0,single,1,31.0,yes
+211,Mr,"Ali, Mr. Ahmed",male,24.0,single,3,7.05,no
+212,Miss,"Cameron, Miss. Clear Annie",female,35.0,single,2,21.0,yes
+213,Mr,"Perkin, Mr. John Henry",male,22.0,single,3,7.25,no
+214,Mr,"Givard, Mr. Hans Kristensen",male,30.0,single,2,13.0,no
+215,Mr,"Kiernan, Mr. Philip",male,29.699118,with_family,3,7.75,no
+216,Miss,"Newell, Miss. Madeleine",female,31.0,with_family,1,113.275,yes
+217,Miss,"Honkanen, Miss. Eliina",female,27.0,single,3,7.925,yes
+218,Mr,"Jacobsohn, Mr. Sidney Samuel",male,42.0,with_family,2,27.0,no
+219,Miss,"Bazzani, Miss. Albina",female,32.0,single,1,76.2917,yes
+220,Mr,"Harris, Mr. Walter",male,30.0,single,2,10.5,no
+221,Mr,"Sunderland, Mr. Victor Francis",male,16.0,single,3,8.05,yes
+222,Mr,"Bracken, Mr. James H",male,27.0,single,2,13.0,no
+223,Mr,"Green, Mr. George Henry",male,51.0,single,3,8.05,no
+224,Mr,"Nenkoff, Mr. Christo",male,29.699118,single,3,7.8958,no
+225,Mr,"Hoyt, Mr. Frederick Maxfield",male,38.0,with_family,1,90.0,yes
+226,Mr,"Berglund, Mr. Karl Ivar Sven",male,22.0,single,3,9.35,no
+227,Mr,"Mellors, Mr. William John",male,19.0,single,2,10.5,yes
+228,Mr,"Lovell, Mr. John Hall (""Henry"")",male,20.5,single,3,7.25,no
+229,Mr,"Fahlstrom, Mr. Arne Jonas",male,18.0,single,2,13.0,no
+230,Miss,"Lefebre, Miss. Mathilde",female,29.699118,with_family,3,25.4667,no
+231,Mrs,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35.0,with_family,1,83.475,yes
+232,Mr,"Larsson, Mr. Bengt Edvin",male,29.0,single,3,7.775,no
+233,Mr,"Sjostedt, Mr. Ernst Adolf",male,59.0,single,2,13.5,no
+234,Miss,"Asplund, Miss. Lillian Gertrud",female,5.0,with_family,3,31.3875,yes
+235,Mr,"Leyson, Mr. Robert William Norman",male,24.0,single,2,10.5,no
+236,Miss,"Harknett, Miss. Alice Phoebe",female,29.699118,single,3,7.55,no
+237,Mr,"Hold, Mr. Stephen",male,44.0,with_family,2,26.0,no
+238,Miss,"Collyer, Miss. Marjorie ""Lottie""",female,8.0,with_family,2,26.25,yes
+239,Mr,"Pengelly, Mr. Frederick William",male,19.0,single,2,10.5,no
+240,Mr,"Hunt, Mr. George Henry",male,33.0,single,2,12.275,no
+241,Miss,"Zabour, Miss. Thamine",female,29.699118,with_family,3,14.4542,no
+242,Miss,"Murphy, Miss. Katherine ""Kate""",female,29.699118,with_family,3,15.5,yes
+243,Mr,"Coleridge, Mr. Reginald Charles",male,29.0,single,2,10.5,no
+244,Mr,"Maenpaa, Mr. Matti Alexanteri",male,22.0,single,3,7.125,no
+245,Mr,"Attalah, Mr. Sleiman",male,30.0,single,3,7.225,no
+246,Mr,"Minahan, Dr. William Edward",male,44.0,with_family,1,90.0,no
+247,Miss,"Lindahl, Miss. Agda Thorilda Viktoria",female,25.0,single,3,7.775,no
+248,Mrs,"Hamalainen, Mrs. William (Anna)",female,24.0,with_family,2,14.5,yes
+249,Mr,"Beckwith, Mr. Richard Leonard",male,37.0,with_family,1,52.5542,yes
+250,Mr,"Carter, Rev. Ernest Courtenay",male,54.0,with_family,2,26.0,no
+251,Mr,"Reed, Mr. James George",male,29.699118,single,3,7.25,no
+252,Mrs,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29.0,with_family,3,10.4625,no
+253,Mr,"Stead, Mr. William Thomas",male,62.0,single,1,26.55,no
+254,Mr,"Lobb, Mr. William Arthur",male,30.0,with_family,3,16.1,no
+255,Mrs,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41.0,with_family,3,20.2125,no
+256,Mrs,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29.0,with_family,3,15.2458,yes
+257,Mrs,"Thorne, Mrs. Gertrude Maybelle",female,29.699118,single,1,79.2,yes
+258,Miss,"Cherry, Miss. Gladys",female,30.0,single,1,86.5,yes
+259,Miss,"Ward, Miss. Anna",female,35.0,single,1,512.3292,yes
+260,Mrs,"Parrish, Mrs. (Lutie Davis)",female,50.0,with_family,2,26.0,yes
+261,Mr,"Smith, Mr. Thomas",male,29.699118,single,3,7.75,no
+262,Mr,"Asplund, Master. Edvin Rojj Felix",male,3.0,with_family,3,31.3875,yes
+263,Mr,"Taussig, Mr. Emil",male,52.0,with_family,1,79.65,no
+264,Mr,"Harrison, Mr. William",male,40.0,single,1,0.0,no
+265,Miss,"Henry, Miss. Delia",female,29.699118,single,3,7.75,no
+266,Mr,"Reeves, Mr. David",male,36.0,single,2,10.5,no
+267,Mr,"Panula, Mr. Ernesti Arvid",male,16.0,with_family,3,39.6875,no
+268,Mr,"Persson, Mr. Ernst Ulrik",male,25.0,with_family,3,7.775,yes
+269,Mrs,"Graham, Mrs. William Thompson (Edith Junkins)",female,58.0,with_family,1,153.4625,yes
+270,Miss,"Bissette, Miss. Amelia",female,35.0,single,1,135.6333,yes
+271,Mr,"Cairns, Mr. Alexander",male,29.699118,single,1,31.0,no
+272,Mr,"Tornquist, Mr. William Henry",male,25.0,single,3,0.0,yes
+273,Mrs,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41.0,with_family,2,19.5,yes
+274,Mr,"Natsch, Mr. Charles H",male,37.0,with_family,1,29.7,no
+275,Miss,"Healy, Miss. Hanora ""Nora""",female,29.699118,single,3,7.75,yes
+276,Miss,"Andrews, Miss. Kornelia Theodosia",female,63.0,with_family,1,77.9583,yes
+277,Miss,"Lindblom, Miss. Augusta Charlotta",female,45.0,single,3,7.75,no
+278,Mr,"Parkes, Mr. Francis ""Frank""",male,29.699118,single,2,0.0,no
+279,Mr,"Rice, Master. Eric",male,7.0,with_family,3,29.125,no
+280,Mrs,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35.0,with_family,3,20.25,yes
+281,Mr,"Duane, Mr. Frank",male,65.0,single,3,7.75,no
+282,Mr,"Olsson, Mr. Nils Johan Goransson",male,28.0,single,3,7.8542,no
+283,Mr,"de Pelsmaeker, Mr. Alfons",male,16.0,single,3,9.5,no
+284,Mr,"Dorking, Mr. Edward Arthur",male,19.0,single,3,8.05,yes
+285,Mr,"Smith, Mr. Richard William",male,29.699118,single,1,26.0,no
+286,Mr,"Stankovic, Mr. Ivan",male,33.0,single,3,8.6625,no
+287,Mr,"de Mulder, Mr. Theodore",male,30.0,single,3,9.5,yes
+288,Mr,"Naidenoff, Mr. Penko",male,22.0,single,3,7.8958,no
+289,Mr,"Hosono, Mr. Masabumi",male,42.0,single,2,13.0,yes
+290,Miss,"Connolly, Miss. Kate",female,22.0,single,3,7.75,yes
+291,Miss,"Barber, Miss. Ellen ""Nellie""",female,26.0,single,1,78.85,yes
+292,Mrs,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19.0,with_family,1,91.0792,yes
+293,Mr,"Levy, Mr. Rene Jacques",male,36.0,single,2,12.875,no
+294,Miss,"Haas, Miss. Aloisia",female,24.0,single,3,8.85,no
+295,Mr,"Mineff, Mr. Ivan",male,24.0,single,3,7.8958,no
+296,Mr,"Lewy, Mr. Ervin G",male,29.699118,single,1,27.7208,no
+297,Mr,"Hanna, Mr. Mansour",male,23.5,single,3,7.2292,no
+298,Miss,"Allison, Miss. Helen Loraine",female,2.0,with_family,1,151.55,no
+299,Mr,"Saalfeld, Mr. Adolphe",male,29.699118,single,1,30.5,yes
+300,Mrs,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50.0,with_family,1,247.5208,yes
+301,Miss,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,29.699118,single,3,7.75,yes
+302,Mr,"McCoy, Mr. Bernard",male,29.699118,with_family,3,23.25,yes
+303,Mr,"Johnson, Mr. William Cahoone Jr",male,19.0,single,3,0.0,no
+304,Miss,"Keane, Miss. Nora A",female,29.699118,single,2,12.35,yes
+305,Mr,"Williams, Mr. Howard Hugh ""Harry""",male,29.699118,single,3,8.05,no
+306,Mr,"Allison, Master. Hudson Trevor",male,0.92,with_family,1,151.55,yes
+307,Miss,"Fleming, Miss. Margaret",female,29.699118,single,1,110.8833,yes
+308,Mrs,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17.0,with_family,1,108.9,yes
+309,Mr,"Abelson, Mr. Samuel",male,30.0,with_family,2,24.0,no
+310,Miss,"Francatelli, Miss. Laura Mabel",female,30.0,single,1,56.9292,yes
+311,Miss,"Hays, Miss. Margaret Bechstein",female,24.0,single,1,83.1583,yes
+312,Miss,"Ryerson, Miss. Emily Borie",female,18.0,with_family,1,262.375,yes
+313,Mrs,"Lahtinen, Mrs. William (Anna Sylfven)",female,26.0,with_family,2,26.0,no
+314,Mr,"Hendekovic, Mr. Ignjac",male,28.0,single,3,7.8958,no
+315,Mr,"Hart, Mr. Benjamin",male,43.0,with_family,2,26.25,no
+316,Miss,"Nilsson, Miss. Helmina Josefina",female,26.0,single,3,7.8542,yes
+317,Mrs,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24.0,with_family,2,26.0,yes
+318,Mr,"Moraweck, Dr. Ernest",male,54.0,single,2,14.0,no
+319,Miss,"Wick, Miss. Mary Natalie",female,31.0,with_family,1,164.8667,yes
+320,Mrs,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40.0,with_family,1,134.5,yes
+321,Mr,"Dennis, Mr. Samuel",male,22.0,single,3,7.25,no
+322,Mr,"Danoff, Mr. Yoto",male,27.0,single,3,7.8958,no
+323,Miss,"Slayter, Miss. Hilda Mary",female,30.0,single,2,12.35,yes
+324,Mrs,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22.0,with_family,2,29.0,yes
+325,Mr,"Sage, Mr. George John Jr",male,29.699118,with_family,3,69.55,no
+326,Miss,"Young, Miss. Marie Grice",female,36.0,single,1,135.6333,yes
+327,Mr,"Nysveen, Mr. Johan Hansen",male,61.0,single,3,6.2375,no
+328,Mrs,"Ball, Mrs. (Ada E Hall)",female,36.0,single,2,13.0,yes
+329,Mrs,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31.0,with_family,3,20.525,yes
+330,Miss,"Hippach, Miss. Jean Gertrude",female,16.0,with_family,1,57.9792,yes
+331,Miss,"McCoy, Miss. Agnes",female,29.699118,with_family,3,23.25,yes
+332,Mr,"Partner, Mr. Austen",male,45.5,single,1,28.5,no
+333,Mr,"Graham, Mr. George Edward",male,38.0,with_family,1,153.4625,no
+334,Mr,"Vander Planke, Mr. Leo Edmondus",male,16.0,with_family,3,18.0,no
+335,Mrs,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,29.699118,with_family,1,133.65,yes
+336,Mr,"Denkoff, Mr. Mitto",male,29.699118,single,3,7.8958,no
+337,Mr,"Pears, Mr. Thomas Clinton",male,29.0,with_family,1,66.6,no
+338,Miss,"Burns, Miss. Elizabeth Margaret",female,41.0,single,1,134.5,yes
+339,Mr,"Dahl, Mr. Karl Edwart",male,45.0,single,3,8.05,yes
+340,Mr,"Blackwell, Mr. Stephen Weart",male,45.0,single,1,35.5,no
+341,Mr,"Navratil, Master. Edmond Roger",male,2.0,with_family,2,26.0,yes
+342,Miss,"Fortune, Miss. Alice Elizabeth",female,24.0,with_family,1,263.0,yes
+343,Mr,"Collander, Mr. Erik Gustaf",male,28.0,single,2,13.0,no
+344,Mr,"Sedgwick, Mr. Charles Frederick Waddington",male,25.0,single,2,13.0,no
+345,Mr,"Fox, Mr. Stanley Hubert",male,36.0,single,2,13.0,no
+346,Miss,"Brown, Miss. Amelia ""Mildred""",female,24.0,single,2,13.0,yes
+347,Miss,"Smith, Miss. Marion Elsie",female,40.0,single,2,13.0,yes
+348,Mrs,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,29.699118,with_family,3,16.1,yes
+349,Mr,"Coutts, Master. William Loch ""William""",male,3.0,with_family,3,15.9,yes
+350,Mr,"Dimic, Mr. Jovan",male,42.0,single,3,8.6625,no
+351,Mr,"Odahl, Mr. Nils Martin",male,23.0,single,3,9.225,no
+352,Mr,"Williams-Lambert, Mr. Fletcher Fellows",male,29.699118,single,1,35.0,no
+353,Mr,"Elias, Mr. Tannous",male,15.0,with_family,3,7.2292,no
+354,Mr,"Arnold-Franchi, Mr. Josef",male,25.0,with_family,3,17.8,no
+355,Mr,"Yousif, Mr. Wazli",male,29.699118,single,3,7.225,no
+356,Mr,"Vanden Steen, Mr. Leo Peter",male,28.0,single,3,9.5,no
+357,Miss,"Bowerman, Miss. Elsie Edith",female,22.0,with_family,1,55.0,yes
+358,Miss,"Funk, Miss. Annie Clemmer",female,38.0,single,2,13.0,no
+359,Miss,"McGovern, Miss. Mary",female,29.699118,single,3,7.8792,yes
+360,Miss,"Mockler, Miss. Helen Mary ""Ellie""",female,29.699118,single,3,7.8792,yes
+361,Mr,"Skoog, Mr. Wilhelm",male,40.0,with_family,3,27.9,no
+362,Mr,"del Carlo, Mr. Sebastiano",male,29.0,with_family,2,27.7208,no
+363,Mrs,"Barbara, Mrs. (Catherine David)",female,45.0,with_family,3,14.4542,no
+364,Mr,"Asim, Mr. Adola",male,35.0,single,3,7.05,no
+365,Mr,"O'Brien, Mr. Thomas",male,29.699118,with_family,3,15.5,no
+366,Mr,"Adahl, Mr. Mauritz Nils Martin",male,30.0,single,3,7.25,no
+367,Mrs,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60.0,with_family,1,75.25,yes
+368,Mrs,"Moussa, Mrs. (Mantoura Boulos)",female,29.699118,single,3,7.2292,yes
+369,Miss,"Jermyn, Miss. Annie",female,29.699118,single,3,7.75,yes
+370,Mrs,"Aubart, Mme. Leontine Pauline",female,24.0,single,1,69.3,yes
+371,Mr,"Harder, Mr. George Achilles",male,25.0,with_family,1,55.4417,yes
+372,Mr,"Wiklund, Mr. Jakob Alfred",male,18.0,with_family,3,6.4958,no
+373,Mr,"Beavan, Mr. William Thomas",male,19.0,single,3,8.05,no
+374,Mr,"Ringhini, Mr. Sante",male,22.0,single,1,135.6333,no
+375,Miss,"Palsson, Miss. Stina Viola",female,3.0,with_family,3,21.075,no
+376,Mrs,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,29.699118,with_family,1,82.1708,yes
+377,Miss,"Landergren, Miss. Aurora Adelia",female,22.0,single,3,7.25,yes
+378,Mr,"Widener, Mr. Harry Elkins",male,27.0,with_family,1,211.5,no
+379,Mr,"Betros, Mr. Tannous",male,20.0,single,3,4.0125,no
+380,Mr,"Gustafsson, Mr. Karl Gideon",male,19.0,single,3,7.775,no
+381,Miss,"Bidois, Miss. Rosalie",female,42.0,single,1,227.525,yes
+382,Miss,"Nakid, Miss. Maria (""Mary"")",female,1.0,with_family,3,15.7417,yes
+383,Mr,"Tikkanen, Mr. Juho",male,32.0,single,3,7.925,no
+384,Mrs,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35.0,with_family,1,52.0,yes
+385,Mr,"Plotcharsky, Mr. Vasil",male,29.699118,single,3,7.8958,no
+386,Mr,"Davies, Mr. Charles Henry",male,18.0,single,2,73.5,no
+387,Mr,"Goodwin, Master. Sidney Leonard",male,1.0,with_family,3,46.9,no
+388,Miss,"Buss, Miss. Kate",female,36.0,single,2,13.0,yes
+389,Mr,"Sadlier, Mr. Matthew",male,29.699118,single,3,7.7292,no
+390,Miss,"Lehmann, Miss. Bertha",female,17.0,single,2,12.0,yes
+391,Mr,"Carter, Mr. William Ernest",male,36.0,with_family,1,120.0,yes
+392,Mr,"Jansson, Mr. Carl Olof",male,21.0,single,3,7.7958,yes
+393,Mr,"Gustafsson, Mr. Johan Birger",male,28.0,with_family,3,7.925,no
+394,Miss,"Newell, Miss. Marjorie",female,23.0,with_family,1,113.275,yes
+395,Mrs,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24.0,with_family,3,16.7,yes
+396,Mr,"Johansson, Mr. Erik",male,22.0,single,3,7.7958,no
+397,Miss,"Olsson, Miss. Elina",female,31.0,single,3,7.8542,no
+398,Mr,"McKane, Mr. Peter David",male,46.0,single,2,26.0,no
+399,Mr,"Pain, Dr. Alfred",male,23.0,single,2,10.5,no
+400,Mrs,"Trout, Mrs. William H (Jessie L)",female,28.0,single,2,12.65,yes
+401,Mr,"Niskanen, Mr. Juha",male,39.0,single,3,7.925,yes
+402,Mr,"Adams, Mr. John",male,26.0,single,3,8.05,no
+403,Miss,"Jussila, Miss. Mari Aina",female,21.0,with_family,3,9.825,no
+404,Mr,"Hakkarainen, Mr. Pekka Pietari",male,28.0,with_family,3,15.85,no
+405,Miss,"Oreskovic, Miss. Marija",female,20.0,single,3,8.6625,no
+406,Mr,"Gale, Mr. Shadrach",male,34.0,with_family,2,21.0,no
+407,Mr,"Widegren, Mr. Carl/Charles Peter",male,51.0,single,3,7.75,no
+408,Mr,"Richards, Master. William Rowe",male,3.0,with_family,2,18.75,yes
+409,Mr,"Birkeland, Mr. Hans Martin Monsen",male,21.0,single,3,7.775,no
+410,Miss,"Lefebre, Miss. Ida",female,29.699118,with_family,3,25.4667,no
+411,Mr,"Sdycoff, Mr. Todor",male,29.699118,single,3,7.8958,no
+412,Mr,"Hart, Mr. Henry",male,29.699118,single,3,6.8583,no
+413,Miss,"Minahan, Miss. Daisy E",female,33.0,with_family,1,90.0,yes
+414,Mr,"Cunningham, Mr. Alfred Fleming",male,29.699118,single,2,0.0,no
+415,Mr,"Sundman, Mr. Johan Julian",male,44.0,single,3,7.925,yes
+416,Mrs,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,29.699118,single,3,8.05,no
+417,Mrs,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34.0,with_family,2,32.5,yes
+418,Miss,"Silven, Miss. Lyyli Karoliina",female,18.0,with_family,2,13.0,yes
+419,Mr,"Matthews, Mr. William John",male,30.0,single,2,13.0,no
+420,Miss,"Van Impe, Miss. Catharina",female,10.0,with_family,3,24.15,no
+421,Mr,"Gheorgheff, Mr. Stanio",male,29.699118,single,3,7.8958,no
+422,Mr,"Charters, Mr. David",male,21.0,single,3,7.7333,no
+423,Mr,"Zimmerman, Mr. Leo",male,29.0,single,3,7.875,no
+424,Mrs,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28.0,with_family,3,14.4,no
+425,Mr,"Rosblom, Mr. Viktor Richard",male,18.0,with_family,3,20.2125,no
+426,Mr,"Wiseman, Mr. Phillippe",male,29.699118,single,3,7.25,no
+427,Mrs,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28.0,with_family,2,26.0,yes
+428,Miss,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19.0,single,2,26.0,yes
+429,Mr,"Flynn, Mr. James",male,29.699118,single,3,7.75,no
+430,Mr,"Pickard, Mr. Berk (Berk Trembisky)",male,32.0,single,3,8.05,yes
+431,Mr,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28.0,single,1,26.55,yes
+432,Mrs,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,29.699118,with_family,3,16.1,yes
+433,Mrs,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42.0,with_family,2,26.0,yes
+434,Mr,"Kallio, Mr. Nikolai Erland",male,17.0,single,3,7.125,no
+435,Mr,"Silvey, Mr. William Baird",male,50.0,with_family,1,55.9,no
+436,Miss,"Carter, Miss. Lucile Polk",female,14.0,with_family,1,120.0,yes
+437,Miss,"Ford, Miss. Doolina Margaret ""Daisy""",female,21.0,with_family,3,34.375,no
+438,Mrs,"Richards, Mrs. Sidney (Emily Hocking)",female,24.0,with_family,2,18.75,yes
+439,Mr,"Fortune, Mr. Mark",male,64.0,with_family,1,263.0,no
+440,Mr,"Kvillner, Mr. Johan Henrik Johannesson",male,31.0,single,2,10.5,no
+441,Mrs,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45.0,with_family,2,26.25,yes
+442,Mr,"Hampe, Mr. Leon",male,20.0,single,3,9.5,no
+443,Mr,"Petterson, Mr. Johan Emil",male,25.0,with_family,3,7.775,no
+444,Miss,"Reynaldo, Ms. Encarnacion",female,28.0,single,2,13.0,yes
+445,Mr,"Johannesen-Bratthammer, Mr. Bernt",male,29.699118,single,3,8.1125,yes
+446,Mr,"Dodge, Master. Washington",male,4.0,with_family,1,81.8583,yes
+447,Miss,"Mellinger, Miss. Madeleine Violet",female,13.0,with_family,2,19.5,yes
+448,Mr,"Seward, Mr. Frederic Kimber",male,34.0,single,1,26.55,yes
+449,Miss,"Baclini, Miss. Marie Catherine",female,5.0,with_family,3,19.2583,yes
+450,Mr,"Peuchen, Major. Arthur Godfrey",male,52.0,single,1,30.5,yes
+451,Mr,"West, Mr. Edwy Arthur",male,36.0,with_family,2,27.75,no
+452,Mr,"Hagland, Mr. Ingvald Olai Olsen",male,29.699118,with_family,3,19.9667,no
+453,Mr,"Foreman, Mr. Benjamin Laventall",male,30.0,single,1,27.75,no
+454,Mr,"Goldenberg, Mr. Samuel L",male,49.0,with_family,1,89.1042,yes
+455,Mr,"Peduzzi, Mr. Joseph",male,29.699118,single,3,8.05,no
+456,Mr,"Jalsevac, Mr. Ivan",male,29.0,single,3,7.8958,yes
+457,Mr,"Millet, Mr. Francis Davis",male,65.0,single,1,26.55,no
+458,Mrs,"Kenyon, Mrs. Frederick R (Marion)",female,29.699118,with_family,1,51.8625,yes
+459,Miss,"Toomey, Miss. Ellen",female,50.0,single,2,10.5,yes
+460,Mr,"O'Connor, Mr. Maurice",male,29.699118,single,3,7.75,no
+461,Mr,"Anderson, Mr. Harry",male,48.0,single,1,26.55,yes
+462,Mr,"Morley, Mr. William",male,34.0,single,3,8.05,no
+463,Mr,"Gee, Mr. Arthur H",male,47.0,single,1,38.5,no
+464,Mr,"Milling, Mr. Jacob Christian",male,48.0,single,2,13.0,no
+465,Mr,"Maisner, Mr. Simon",male,29.699118,single,3,8.05,no
+466,Mr,"Goncalves, Mr. Manuel Estanslas",male,38.0,single,3,7.05,no
+467,Mr,"Campbell, Mr. William",male,29.699118,single,2,0.0,no
+468,Mr,"Smart, Mr. John Montgomery",male,56.0,single,1,26.55,no
+469,Mr,"Scanlan, Mr. James",male,29.699118,single,3,7.725,no
+470,Miss,"Baclini, Miss. Helene Barbara",female,0.75,with_family,3,19.2583,yes
+471,Mr,"Keefe, Mr. Arthur",male,29.699118,single,3,7.25,no
+472,Mr,"Cacic, Mr. Luka",male,38.0,single,3,8.6625,no
+473,Mrs,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33.0,with_family,2,27.75,yes
+474,Mrs,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23.0,single,2,13.7917,yes
+475,Miss,"Strandberg, Miss. Ida Sofia",female,22.0,single,3,9.8375,no
+476,Mr,"Clifford, Mr. George Quincy",male,29.699118,single,1,52.0,no
+477,Mr,"Renouf, Mr. Peter Henry",male,34.0,with_family,2,21.0,no
+478,Mr,"Braund, Mr. Lewis Richard",male,29.0,with_family,3,7.0458,no
+479,Mr,"Karlsson, Mr. Nils August",male,22.0,single,3,7.5208,no
+480,Miss,"Hirvonen, Miss. Hildur E",female,2.0,with_family,3,12.2875,yes
+481,Mr,"Goodwin, Master. Harold Victor",male,9.0,with_family,3,46.9,no
+482,Mr,"Frost, Mr. Anthony Wood ""Archie""",male,29.699118,single,2,0.0,no
+483,Mr,"Rouse, Mr. Richard Henry",male,50.0,single,3,8.05,no
+484,Mrs,"Turkula, Mrs. (Hedwig)",female,63.0,single,3,9.5875,yes
+485,Mr,"Bishop, Mr. Dickinson H",male,25.0,with_family,1,91.0792,yes
+486,Miss,"Lefebre, Miss. Jeannie",female,29.699118,with_family,3,25.4667,no
+487,Mrs,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35.0,with_family,1,90.0,yes
+488,Mr,"Kent, Mr. Edward Austin",male,58.0,single,1,29.7,no
+489,Mr,"Somerton, Mr. Francis William",male,30.0,single,3,8.05,no
+490,Mr,"Coutts, Master. Eden Leslie ""Neville""",male,9.0,with_family,3,15.9,yes
+491,Mr,"Hagland, Mr. Konrad Mathias Reiersen",male,29.699118,with_family,3,19.9667,no
+492,Mr,"Windelov, Mr. Einar",male,21.0,single,3,7.25,no
+493,Mr,"Molson, Mr. Harry Markland",male,55.0,single,1,30.5,no
+494,Mr,"Artagaveytia, Mr. Ramon",male,71.0,single,1,49.5042,no
+495,Mr,"Stanley, Mr. Edward Roland",male,21.0,single,3,8.05,no
+496,Mr,"Yousseff, Mr. Gerious",male,29.699118,single,3,14.4583,no
+497,Miss,"Eustis, Miss. Elizabeth Mussey",female,54.0,with_family,1,78.2667,yes
+498,Mr,"Shellard, Mr. Frederick William",male,29.699118,single,3,15.1,no
+499,Mrs,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25.0,with_family,1,151.55,no
+500,Mr,"Svensson, Mr. Olof",male,24.0,single,3,7.7958,no
+501,Mr,"Calic, Mr. Petar",male,17.0,single,3,8.6625,no
+502,Miss,"Canavan, Miss. Mary",female,21.0,single,3,7.75,no
+503,Miss,"O'Sullivan, Miss. Bridget Mary",female,29.699118,single,3,7.6292,no
+504,Miss,"Laitinen, Miss. Kristina Sofia",female,37.0,single,3,9.5875,no
+505,Miss,"Maioni, Miss. Roberta",female,16.0,single,1,86.5,yes
+506,Mr,"Penasco y Castellana, Mr. Victor de Satode",male,18.0,with_family,1,108.9,no
+507,Mrs,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33.0,with_family,2,26.0,yes
+508,Mr,"Bradley, Mr. George (""George Arthur Brayton"")",male,29.699118,single,1,26.55,yes
+509,Mr,"Olsen, Mr. Henry Margido",male,28.0,single,3,22.525,no
+510,Mr,"Lang, Mr. Fang",male,26.0,single,3,56.4958,yes
+511,Mr,"Daly, Mr. Eugene Patrick",male,29.0,single,3,7.75,yes
+512,Mr,"Webber, Mr. James",male,29.699118,single,3,8.05,no
+513,Mr,"McGough, Mr. James Robert",male,36.0,single,1,26.2875,yes
+514,Mrs,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54.0,with_family,1,59.4,yes
+515,Mr,"Coleff, Mr. Satio",male,24.0,single,3,7.4958,no
+516,Mr,"Walker, Mr. William Anderson",male,47.0,single,1,34.0208,no
+517,Mrs,"Lemore, Mrs. (Amelia Milley)",female,34.0,single,2,10.5,yes
+518,Mr,"Ryan, Mr. Patrick",male,29.699118,single,3,24.15,no
+519,Mrs,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36.0,with_family,2,26.0,yes
+520,Mr,"Pavlovic, Mr. Stefo",male,32.0,single,3,7.8958,no
+521,Miss,"Perreault, Miss. Anne",female,30.0,single,1,93.5,yes
+522,Mr,"Vovk, Mr. Janko",male,22.0,single,3,7.8958,no
+523,Mr,"Lahoud, Mr. Sarkis",male,29.699118,single,3,7.225,no
+524,Mrs,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44.0,with_family,1,57.9792,yes
+525,Mr,"Kassem, Mr. Fared",male,29.699118,single,3,7.2292,no
+526,Mr,"Farrell, Mr. James",male,40.5,single,3,7.75,no
+527,Miss,"Ridsdale, Miss. Lucy",female,50.0,single,2,10.5,yes
+528,Mr,"Farthing, Mr. John",male,29.699118,single,1,221.7792,no
+529,Mr,"Salonen, Mr. Johan Werner",male,39.0,single,3,7.925,no
+530,Mr,"Hocking, Mr. Richard George",male,23.0,with_family,2,11.5,no
+531,Miss,"Quick, Miss. Phyllis May",female,2.0,with_family,2,26.0,yes
+532,Mr,"Toufik, Mr. Nakli",male,29.699118,single,3,7.2292,no
+533,Mr,"Elias, Mr. Joseph Jr",male,17.0,with_family,3,7.2292,no
+534,Mrs,"Peter, Mrs. Catherine (Catherine Rizk)",female,29.699118,with_family,3,22.3583,yes
+535,Miss,"Cacic, Miss. Marija",female,30.0,single,3,8.6625,no
+536,Miss,"Hart, Miss. Eva Miriam",female,7.0,with_family,2,26.25,yes
+537,Mr,"Butt, Major. Archibald Willingham",male,45.0,single,1,26.55,no
+538,Miss,"LeRoy, Miss. Bertha",female,30.0,single,1,106.425,yes
+539,Mr,"Risien, Mr. Samuel Beard",male,29.699118,single,3,14.5,no
+540,Miss,"Frolicher, Miss. Hedwig Margaritha",female,22.0,with_family,1,49.5,yes
+541,Miss,"Crosby, Miss. Harriet R",female,36.0,with_family,1,71.0,yes
+542,Miss,"Andersson, Miss. Ingeborg Constanzia",female,9.0,with_family,3,31.275,no
+543,Miss,"Andersson, Miss. Sigrid Elisabeth",female,11.0,with_family,3,31.275,no
+544,Mr,"Beane, Mr. Edward",male,32.0,with_family,2,26.0,yes
+545,Mr,"Douglas, Mr. Walter Donald",male,50.0,with_family,1,106.425,no
+546,Mr,"Nicholson, Mr. Arthur Ernest",male,64.0,single,1,26.0,no
+547,Mrs,"Beane, Mrs. Edward (Ethel Clarke)",female,19.0,with_family,2,26.0,yes
+548,Mr,"Padro y Manent, Mr. Julian",male,29.699118,single,2,13.8625,yes
+549,Mr,"Goldsmith, Mr. Frank John",male,33.0,with_family,3,20.525,no
+550,Mr,"Davies, Master. John Morgan Jr",male,8.0,with_family,2,36.75,yes
+551,Mr,"Thayer, Mr. John Borland Jr",male,17.0,with_family,1,110.8833,yes
+552,Mr,"Sharp, Mr. Percival James R",male,27.0,single,2,26.0,no
+553,Mr,"O'Brien, Mr. Timothy",male,29.699118,single,3,7.8292,no
+554,Mr,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22.0,single,3,7.225,yes
+555,Miss,"Ohman, Miss. Velin",female,22.0,single,3,7.775,yes
+556,Mr,"Wright, Mr. George",male,62.0,single,1,26.55,no
+557,Mrs,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48.0,with_family,1,39.6,yes
+558,Mr,"Robbins, Mr. Victor",male,29.699118,single,1,227.525,no
+559,Mrs,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39.0,with_family,1,79.65,yes
+560,Mrs,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36.0,with_family,3,17.4,yes
+561,Mr,"Morrow, Mr. Thomas Rowan",male,29.699118,single,3,7.75,no
+562,Mr,"Sivic, Mr. Husein",male,40.0,single,3,7.8958,no
+563,Mr,"Norman, Mr. Robert Douglas",male,28.0,single,2,13.5,no
+564,Mr,"Simmons, Mr. John",male,29.699118,single,3,8.05,no
+565,Miss,"Meanwell, Miss. (Marion Ogden)",female,29.699118,single,3,8.05,no
+566,Mr,"Davies, Mr. Alfred J",male,24.0,with_family,3,24.15,no
+567,Mr,"Stoytcheff, Mr. Ilia",male,19.0,single,3,7.8958,no
+568,Mrs,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,29.0,with_family,3,21.075,no
+569,Mr,"Doharr, Mr. Tannous",male,29.699118,single,3,7.2292,no
+570,Mr,"Jonsson, Mr. Carl",male,32.0,single,3,7.8542,yes
+571,Mr,"Harris, Mr. George",male,62.0,single,2,10.5,yes
+572,Mrs,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53.0,with_family,1,51.4792,yes
+573,Mr,"Flynn, Mr. John Irwin (""Irving"")",male,36.0,single,1,26.3875,yes
+574,Miss,"Kelly, Miss. Mary",female,29.699118,single,3,7.75,yes
+575,Mr,"Rush, Mr. Alfred George John",male,16.0,single,3,8.05,no
+576,Mr,"Patchett, Mr. George",male,19.0,single,3,14.5,no
+577,Miss,"Garside, Miss. Ethel",female,34.0,single,2,13.0,yes
+578,Mrs,"Silvey, Mrs. William Baird (Alice Munger)",female,39.0,with_family,1,55.9,yes
+579,Mrs,"Caram, Mrs. Joseph (Maria Elias)",female,29.699118,with_family,3,14.4583,no
+580,Mr,"Jussila, Mr. Eiriik",male,32.0,single,3,7.925,yes
+581,Miss,"Christy, Miss. Julie Rachel",female,25.0,with_family,2,30.0,yes
+582,Mrs,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39.0,with_family,1,110.8833,yes
+583,Mr,"Downton, Mr. William James",male,54.0,single,2,26.0,no
+584,Mr,"Ross, Mr. John Hugo",male,36.0,single,1,40.125,no
+585,Mr,"Paulner, Mr. Uscher",male,29.699118,single,3,8.7125,no
+586,Miss,"Taussig, Miss. Ruth",female,18.0,with_family,1,79.65,yes
+587,Mr,"Jarvis, Mr. John Denzil",male,47.0,single,2,15.0,no
+588,Mr,"Frolicher-Stehli, Mr. Maxmillian",male,60.0,with_family,1,79.2,yes
+589,Mr,"Gilinski, Mr. Eliezer",male,22.0,single,3,8.05,no
+590,Mr,"Murdlin, Mr. Joseph",male,29.699118,single,3,8.05,no
+591,Mr,"Rintamaki, Mr. Matti",male,35.0,single,3,7.125,no
+592,Mrs,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52.0,with_family,1,78.2667,yes
+593,Mr,"Elsbury, Mr. William James",male,47.0,single,3,7.25,no
+594,Miss,"Bourke, Miss. Mary",female,29.699118,with_family,3,7.75,no
+595,Mr,"Chapman, Mr. John Henry",male,37.0,with_family,2,26.0,no
+596,Mr,"Van Impe, Mr. Jean Baptiste",male,36.0,with_family,3,24.15,no
+597,Miss,"Leitch, Miss. Jessie Wills",female,29.699118,single,2,33.0,yes
+598,Mr,"Johnson, Mr. Alfred",male,49.0,single,3,0.0,no
+599,Mr,"Boulos, Mr. Hanna",male,29.699118,single,3,7.225,no
+600,Mr,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49.0,with_family,1,56.9292,yes
+601,Mrs,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24.0,with_family,2,27.0,yes
+602,Mr,"Slabenoff, Mr. Petco",male,29.699118,single,3,7.8958,no
+603,Mr,"Harrington, Mr. Charles H",male,29.699118,single,1,42.4,no
+604,Mr,"Torber, Mr. Ernst William",male,44.0,single,3,8.05,no
+605,Mr,"Homer, Mr. Harry (""Mr E Haven"")",male,35.0,single,1,26.55,yes
+606,Mr,"Lindell, Mr. Edvard Bengtsson",male,36.0,with_family,3,15.55,no
+607,Mr,"Karaic, Mr. Milan",male,30.0,single,3,7.8958,no
+608,Mr,"Daniel, Mr. Robert Williams",male,27.0,single,1,30.5,yes
+609,Mrs,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22.0,with_family,2,41.5792,yes
+610,Miss,"Shutes, Miss. Elizabeth W",female,40.0,single,1,153.4625,yes
+611,Mrs,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,39.0,with_family,3,31.275,no
+612,Mr,"Jardin, Mr. Jose Neto",male,29.699118,single,3,7.05,no
+613,Miss,"Murphy, Miss. Margaret Jane",female,29.699118,with_family,3,15.5,yes
+614,Mr,"Horgan, Mr. John",male,29.699118,single,3,7.75,no
+615,Mr,"Brocklebank, Mr. William Alfred",male,35.0,single,3,8.05,no
+616,Miss,"Herman, Miss. Alice",female,24.0,with_family,2,65.0,yes
+617,Mr,"Danbom, Mr. Ernst Gilbert",male,34.0,with_family,3,14.4,no
+618,Mrs,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26.0,with_family,3,16.1,no
+619,Miss,"Becker, Miss. Marion Louise",female,4.0,with_family,2,39.0,yes
+620,Mr,"Gavey, Mr. Lawrence",male,26.0,single,2,10.5,no
+621,Mr,"Yasbeck, Mr. Antoni",male,27.0,with_family,3,14.4542,no
+622,Mr,"Kimball, Mr. Edwin Nelson Jr",male,42.0,with_family,1,52.5542,yes
+623,Mr,"Nakid, Mr. Sahid",male,20.0,with_family,3,15.7417,yes
+624,Mr,"Hansen, Mr. Henry Damsgaard",male,21.0,single,3,7.8542,no
+625,Mr,"Bowen, Mr. David John ""Dai""",male,21.0,single,3,16.1,no
+626,Mr,"Sutton, Mr. Frederick",male,61.0,single,1,32.3208,no
+627,Mr,"Kirkland, Rev. Charles Leonard",male,57.0,single,2,12.35,no
+628,Miss,"Longley, Miss. Gretchen Fiske",female,21.0,single,1,77.9583,yes
+629,Mr,"Bostandyeff, Mr. Guentcho",male,26.0,single,3,7.8958,no
+630,Mr,"O'Connell, Mr. Patrick D",male,29.699118,single,3,7.7333,no
+631,Mr,"Barkworth, Mr. Algernon Henry Wilson",male,80.0,single,1,30.0,yes
+632,Mr,"Lundahl, Mr. Johan Svensson",male,51.0,single,3,7.0542,no
+633,Mr,"Stahelin-Maeglin, Dr. Max",male,32.0,single,1,30.5,yes
+634,Mr,"Parr, Mr. William Henry Marsh",male,29.699118,single,1,0.0,no
+635,Miss,"Skoog, Miss. Mabel",female,9.0,with_family,3,27.9,no
+636,Miss,"Davis, Miss. Mary",female,28.0,single,2,13.0,yes
+637,Mr,"Leinonen, Mr. Antti Gustaf",male,32.0,single,3,7.925,no
+638,Mr,"Collyer, Mr. Harvey",male,31.0,with_family,2,26.25,no
+639,Mrs,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,41.0,with_family,3,39.6875,no
+640,Mr,"Thorneycroft, Mr. Percival",male,29.699118,with_family,3,16.1,no
+641,Mr,"Jensen, Mr. Hans Peder",male,20.0,single,3,7.8542,no
+642,Miss,"Sagesser, Mlle. Emma",female,24.0,single,1,69.3,yes
+643,Miss,"Skoog, Miss. Margit Elizabeth",female,2.0,with_family,3,27.9,no
+644,Mr,"Foo, Mr. Choong",male,29.699118,single,3,56.4958,yes
+645,Miss,"Baclini, Miss. Eugenie",female,0.75,with_family,3,19.2583,yes
+646,Mr,"Harper, Mr. Henry Sleeper",male,48.0,with_family,1,76.7292,yes
+647,Mr,"Cor, Mr. Liudevit",male,19.0,single,3,7.8958,no
+648,Mr,"Simonius-Blumer, Col. Oberst Alfons",male,56.0,single,1,35.5,yes
+649,Mr,"Willey, Mr. Edward",male,29.699118,single,3,7.55,no
+650,Miss,"Stanley, Miss. Amy Zillah Elsie",female,23.0,single,3,7.55,yes
+651,Mr,"Mitkoff, Mr. Mito",male,29.699118,single,3,7.8958,no
+652,Miss,"Doling, Miss. Elsie",female,18.0,with_family,2,23.0,yes
+653,Mr,"Kalvik, Mr. Johannes Halvorsen",male,21.0,single,3,8.4333,no
+654,Miss,"O'Leary, Miss. Hanora ""Norah""",female,29.699118,single,3,7.8292,yes
+655,Miss,"Hegarty, Miss. Hanora ""Nora""",female,18.0,single,3,6.75,no
+656,Mr,"Hickman, Mr. Leonard Mark",male,24.0,with_family,2,73.5,no
+657,Mr,"Radeff, Mr. Alexander",male,29.699118,single,3,7.8958,no
+658,Mrs,"Bourke, Mrs. John (Catherine)",female,32.0,with_family,3,15.5,no
+659,Mr,"Eitemiller, Mr. George Floyd",male,23.0,single,2,13.0,no
+660,Mr,"Newell, Mr. Arthur Webster",male,58.0,with_family,1,113.275,no
+661,Mr,"Frauenthal, Dr. Henry William",male,50.0,with_family,1,133.65,yes
+662,Mr,"Badt, Mr. Mohamed",male,40.0,single,3,7.225,no
+663,Mr,"Colley, Mr. Edward Pomeroy",male,47.0,single,1,25.5875,no
+664,Mr,"Coleff, Mr. Peju",male,36.0,single,3,7.4958,no
+665,Mr,"Lindqvist, Mr. Eino William",male,20.0,with_family,3,7.925,yes
+666,Mr,"Hickman, Mr. Lewis",male,32.0,with_family,2,73.5,no
+667,Mr,"Butler, Mr. Reginald Fenton",male,25.0,single,2,13.0,no
+668,Mr,"Rommetvedt, Mr. Knud Paust",male,29.699118,single,3,7.775,no
+669,Mr,"Cook, Mr. Jacob",male,43.0,single,3,8.05,no
+670,Mrs,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,29.699118,with_family,1,52.0,yes
+671,Mrs,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40.0,with_family,2,39.0,yes
+672,Mr,"Davidson, Mr. Thornton",male,31.0,with_family,1,52.0,no
+673,Mr,"Mitchell, Mr. Henry Michael",male,70.0,single,2,10.5,no
+674,Mr,"Wilhelms, Mr. Charles",male,31.0,single,2,13.0,yes
+675,Mr,"Watson, Mr. Ennis Hastings",male,29.699118,single,2,0.0,no
+676,Mr,"Edvardsson, Mr. Gustaf Hjalmar",male,18.0,single,3,7.775,no
+677,Mr,"Sawyer, Mr. Frederick Charles",male,24.5,single,3,8.05,no
+678,Miss,"Turja, Miss. Anna Sofia",female,18.0,single,3,9.8417,yes
+679,Mrs,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43.0,with_family,3,46.9,no
+680,Mr,"Cardeza, Mr. Thomas Drake Martinez",male,36.0,with_family,1,512.3292,yes
+681,Miss,"Peters, Miss. Katie",female,29.699118,single,3,8.1375,no
+682,Mr,"Hassab, Mr. Hammad",male,27.0,single,1,76.7292,yes
+683,Mr,"Olsvigen, Mr. Thor Anderson",male,20.0,single,3,9.225,no
+684,Mr,"Goodwin, Mr. Charles Edward",male,14.0,with_family,3,46.9,no
+685,Mr,"Brown, Mr. Thomas William Solomon",male,60.0,with_family,2,39.0,no
+686,Mr,"Laroche, Mr. Joseph Philippe Lemercier",male,25.0,with_family,2,41.5792,no
+687,Mr,"Panula, Mr. Jaako Arnold",male,14.0,with_family,3,39.6875,no
+688,Mr,"Dakic, Mr. Branko",male,19.0,single,3,10.1708,no
+689,Mr,"Fischer, Mr. Eberhard Thelander",male,18.0,single,3,7.7958,no
+690,Miss,"Madill, Miss. Georgette Alexandra",female,15.0,with_family,1,211.3375,yes
+691,Mr,"Dick, Mr. Albert Adrian",male,31.0,with_family,1,57.0,yes
+692,Miss,"Karun, Miss. Manca",female,4.0,with_family,3,13.4167,yes
+693,Mr,"Lam, Mr. Ali",male,29.699118,single,3,56.4958,yes
+694,Mr,"Saad, Mr. Khalil",male,25.0,single,3,7.225,no
+695,Mr,"Weir, Col. John",male,60.0,single,1,26.55,no
+696,Mr,"Chapman, Mr. Charles Henry",male,52.0,single,2,13.5,no
+697,Mr,"Kelly, Mr. James",male,44.0,single,3,8.05,no
+698,Miss,"Mullens, Miss. Katherine ""Katie""",female,29.699118,single,3,7.7333,yes
+699,Mr,"Thayer, Mr. John Borland",male,49.0,with_family,1,110.8833,no
+700,Mr,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42.0,single,3,7.65,no
+701,Mrs,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18.0,with_family,1,227.525,yes
+702,Mr,"Silverthorne, Mr. Spencer Victor",male,35.0,single,1,26.2875,yes
+703,Miss,"Barbara, Miss. Saiide",female,18.0,with_family,3,14.4542,no
+704,Mr,"Gallagher, Mr. Martin",male,25.0,single,3,7.7417,no
+705,Mr,"Hansen, Mr. Henrik Juul",male,26.0,with_family,3,7.8542,no
+706,Mr,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39.0,single,2,26.0,no
+707,Mrs,"Kelly, Mrs. Florence ""Fannie""",female,45.0,single,2,13.5,yes
+708,Mr,"Calderhead, Mr. Edward Pennington",male,42.0,single,1,26.2875,yes
+709,Miss,"Cleaver, Miss. Alice",female,22.0,single,1,151.55,yes
+710,Mr,"Moubarek, Master. Halim Gonios (""William George"")",male,29.699118,with_family,3,15.2458,yes
+711,Miss,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24.0,single,1,49.5042,yes
+712,Mr,"Klaber, Mr. Herman",male,29.699118,single,1,26.55,no
+713,Mr,"Taylor, Mr. Elmer Zebley",male,48.0,with_family,1,52.0,yes
+714,Mr,"Larsson, Mr. August Viktor",male,29.0,single,3,9.4833,no
+715,Mr,"Greenberg, Mr. Samuel",male,52.0,single,2,13.0,no
+716,Mr,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19.0,single,3,7.65,no
+717,Miss,"Endres, Miss. Caroline Louise",female,38.0,single,1,227.525,yes
+718,Miss,"Troutt, Miss. Edwina Celia ""Winnie""",female,27.0,single,2,10.5,yes
+719,Mr,"McEvoy, Mr. Michael",male,29.699118,single,3,15.5,no
+720,Mr,"Johnson, Mr. Malkolm Joackim",male,33.0,single,3,7.775,no
+721,Miss,"Harper, Miss. Annie Jessie ""Nina""",female,6.0,with_family,2,33.0,yes
+722,Mr,"Jensen, Mr. Svend Lauritz",male,17.0,with_family,3,7.0542,no
+723,Mr,"Gillespie, Mr. William Henry",male,34.0,single,2,13.0,no
+724,Mr,"Hodges, Mr. Henry Price",male,50.0,single,2,13.0,no
+725,Mr,"Chambers, Mr. Norman Campbell",male,27.0,with_family,1,53.1,yes
+726,Mr,"Oreskovic, Mr. Luka",male,20.0,single,3,8.6625,no
+727,Mrs,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30.0,with_family,2,21.0,yes
+728,Miss,"Mannion, Miss. Margareth",female,29.699118,single,3,7.7375,yes
+729,Mr,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25.0,with_family,2,26.0,no
+730,Miss,"Ilmakangas, Miss. Pieta Sofia",female,25.0,with_family,3,7.925,no
+731,Miss,"Allen, Miss. Elisabeth Walton",female,29.0,single,1,211.3375,yes
+732,Mr,"Hassan, Mr. Houssein G N",male,11.0,single,3,18.7875,no
+733,Mr,"Knight, Mr. Robert J",male,29.699118,single,2,0.0,no
+734,Mr,"Berriman, Mr. William John",male,23.0,single,2,13.0,no
+735,Mr,"Troupiansky, Mr. Moses Aaron",male,23.0,single,2,13.0,no
+736,Mr,"Williams, Mr. Leslie",male,28.5,single,3,16.1,no
+737,Mrs,"Ford, Mrs. Edward (Margaret Ann Watson)",female,48.0,with_family,3,34.375,no
+738,Mr,"Lesurer, Mr. Gustave J",male,35.0,single,1,512.3292,yes
+739,Mr,"Ivanoff, Mr. Kanio",male,29.699118,single,3,7.8958,no
+740,Mr,"Nankoff, Mr. Minko",male,29.699118,single,3,7.8958,no
+741,Mr,"Hawksford, Mr. Walter James",male,29.699118,single,1,30.0,yes
+742,Mr,"Cavendish, Mr. Tyrell William",male,36.0,with_family,1,78.85,no
+743,Miss,"Ryerson, Miss. Susan Parker ""Suzette""",female,21.0,with_family,1,262.375,yes
+744,Mr,"McNamee, Mr. Neal",male,24.0,with_family,3,16.1,no
+745,Mr,"Stranden, Mr. Juho",male,31.0,single,3,7.925,yes
+746,Mr,"Crosby, Capt. Edward Gifford",male,70.0,with_family,1,71.0,no
+747,Mr,"Abbott, Mr. Rossmore Edward",male,16.0,with_family,3,20.25,no
+748,Miss,"Sinkkonen, Miss. Anna",female,30.0,single,2,13.0,yes
+749,Mr,"Marvin, Mr. Daniel Warner",male,19.0,with_family,1,53.1,no
+750,Mr,"Connaghton, Mr. Michael",male,31.0,single,3,7.75,no
+751,Miss,"Wells, Miss. Joan",female,4.0,with_family,2,23.0,yes
+752,Mr,"Moor, Master. Meier",male,6.0,with_family,3,12.475,yes
+753,Mr,"Vande Velde, Mr. Johannes Joseph",male,33.0,single,3,9.5,no
+754,Mr,"Jonkoff, Mr. Lalio",male,23.0,single,3,7.8958,no
+755,Mrs,"Herman, Mrs. Samuel (Jane Laver)",female,48.0,with_family,2,65.0,yes
+756,Mr,"Hamalainen, Master. Viljo",male,0.67,with_family,2,14.5,yes
+757,Mr,"Carlsson, Mr. August Sigfrid",male,28.0,single,3,7.7958,no
+758,Mr,"Bailey, Mr. Percy Andrew",male,18.0,single,2,11.5,no
+759,Mr,"Theobald, Mr. Thomas Leonard",male,34.0,single,3,8.05,no
+760,Mrs,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33.0,single,1,86.5,yes
+761,Mr,"Garfirth, Mr. John",male,29.699118,single,3,14.5,no
+762,Mr,"Nirva, Mr. Iisakki Antino Aijo",male,41.0,single,3,7.125,no
+763,Mr,"Barah, Mr. Hanna Assi",male,20.0,single,3,7.2292,yes
+764,Mrs,"Carter, Mrs. William Ernest (Lucile Polk)",female,36.0,with_family,1,120.0,yes
+765,Mr,"Eklund, Mr. Hans Linus",male,16.0,single,3,7.775,no
+766,Mrs,"Hogeboom, Mrs. John C (Anna Andrews)",female,51.0,with_family,1,77.9583,yes
+767,Mr,"Brewe, Dr. Arthur Jackson",male,29.699118,single,1,39.6,no
+768,Miss,"Mangan, Miss. Mary",female,30.5,single,3,7.75,no
+769,Mr,"Moran, Mr. Daniel J",male,29.699118,with_family,3,24.15,no
+770,Mr,"Gronnestad, Mr. Daniel Danielsen",male,32.0,single,3,8.3625,no
+771,Mr,"Lievens, Mr. Rene Aime",male,24.0,single,3,9.5,no
+772,Mr,"Jensen, Mr. Niels Peder",male,48.0,single,3,7.8542,no
+773,Mrs,"Mack, Mrs. (Mary)",female,57.0,single,2,10.5,no
+774,Mr,"Elias, Mr. Dibo",male,29.699118,single,3,7.225,no
+775,Mrs,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54.0,with_family,2,23.0,yes
+776,Mr,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18.0,single,3,7.75,no
+777,Mr,"Tobin, Mr. Roger",male,29.699118,single,3,7.75,no
+778,Miss,"Emanuel, Miss. Virginia Ethel",female,5.0,single,3,12.475,yes
+779,Mr,"Kilgannon, Mr. Thomas J",male,29.699118,single,3,7.7375,no
+780,Mrs,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43.0,with_family,1,211.3375,yes
+781,Miss,"Ayoub, Miss. Banoura",female,13.0,single,3,7.2292,yes
+782,Mrs,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17.0,with_family,1,57.0,yes
+783,Mr,"Long, Mr. Milton Clyde",male,29.0,single,1,30.0,no
+784,Mr,"Johnston, Mr. Andrew G",male,29.699118,with_family,3,23.45,no
+785,Mr,"Ali, Mr. William",male,25.0,single,3,7.05,no
+786,Mr,"Harmer, Mr. Abraham (David Lishin)",male,25.0,single,3,7.25,no
+787,Miss,"Sjoblom, Miss. Anna Sofia",female,18.0,single,3,7.4958,yes
+788,Mr,"Rice, Master. George Hugh",male,8.0,with_family,3,29.125,no
+789,Mr,"Dean, Master. Bertram Vere",male,1.0,with_family,3,20.575,yes
+790,Mr,"Guggenheim, Mr. Benjamin",male,46.0,single,1,79.2,no
+791,Mr,"Keane, Mr. Andrew ""Andy""",male,29.699118,single,3,7.75,no
+792,Mr,"Gaskell, Mr. Alfred",male,16.0,single,2,26.0,no
+793,Miss,"Sage, Miss. Stella Anna",female,29.699118,with_family,3,69.55,no
+794,Mr,"Hoyt, Mr. William Fisher",male,29.699118,single,1,30.6958,no
+795,Mr,"Dantcheff, Mr. Ristiu",male,25.0,single,3,7.8958,no
+796,Mr,"Otter, Mr. Richard",male,39.0,single,2,13.0,no
+797,Mr,"Leader, Dr. Alice (Farnham)",female,49.0,single,1,25.9292,yes
+798,Mrs,"Osman, Mrs. Mara",female,31.0,single,3,8.6833,yes
+799,Mr,"Ibrahim Shawah, Mr. Yousseff",male,30.0,single,3,7.2292,no
+800,Mrs,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30.0,with_family,3,24.15,no
+801,Mr,"Ponesell, Mr. Martin",male,34.0,single,2,13.0,no
+802,Mrs,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31.0,with_family,2,26.25,yes
+803,Mr,"Carter, Master. William Thornton II",male,11.0,with_family,1,120.0,yes
+804,Mr,"Thomas, Master. Assad Alexander",male,0.42,with_family,3,8.5167,yes
+805,Mr,"Hedman, Mr. Oskar Arvid",male,27.0,single,3,6.975,yes
+806,Mr,"Johansson, Mr. Karl Johan",male,31.0,single,3,7.775,no
+807,Mr,"Andrews, Mr. Thomas Jr",male,39.0,single,1,0.0,no
+808,Miss,"Pettersson, Miss. Ellen Natalia",female,18.0,single,3,7.775,no
+809,Mr,"Meyer, Mr. August",male,39.0,single,2,13.0,no
+810,Mrs,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33.0,with_family,1,53.1,yes
+811,Mr,"Alexander, Mr. William",male,26.0,single,3,7.8875,no
+812,Mr,"Lester, Mr. James",male,39.0,single,3,24.15,no
+813,Mr,"Slemen, Mr. Richard James",male,35.0,single,2,10.5,no
+814,Miss,"Andersson, Miss. Ebba Iris Alfrida",female,6.0,with_family,3,31.275,no
+815,Mr,"Tomlin, Mr. Ernest Portage",male,30.5,single,3,8.05,no
+816,Mr,"Fry, Mr. Richard",male,29.699118,single,1,0.0,no
+817,Miss,"Heininen, Miss. Wendla Maria",female,23.0,single,3,7.925,no
+818,Mr,"Mallet, Mr. Albert",male,31.0,with_family,2,37.0042,no
+819,Mr,"Holm, Mr. John Fredrik Alexander",male,43.0,single,3,6.45,no
+820,Mr,"Skoog, Master. Karl Thorsten",male,10.0,with_family,3,27.9,no
+821,Mrs,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52.0,with_family,1,93.5,yes
+822,Mr,"Lulic, Mr. Nikola",male,27.0,single,3,8.6625,yes
+823,Mr,"Reuchlin, Jonkheer. John George",male,38.0,single,1,0.0,no
+824,Mrs,"Moor, Mrs. (Beila)",female,27.0,with_family,3,12.475,yes
+825,Mr,"Panula, Master. Urho Abraham",male,2.0,with_family,3,39.6875,no
+826,Mr,"Flynn, Mr. John",male,29.699118,single,3,6.95,no
+827,Mr,"Lam, Mr. Len",male,29.699118,single,3,56.4958,no
+828,Mr,"Mallet, Master. Andre",male,1.0,with_family,2,37.0042,yes
+829,Mr,"McCormack, Mr. Thomas Joseph",male,29.699118,single,3,7.75,yes
+831,Mrs,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15.0,with_family,3,14.4542,yes
+832,Mr,"Richards, Master. George Sibley",male,0.83,with_family,2,18.75,yes
+833,Mr,"Saad, Mr. Amin",male,29.699118,single,3,7.2292,no
+834,Mr,"Augustsson, Mr. Albert",male,23.0,single,3,7.8542,no
+835,Mr,"Allum, Mr. Owen George",male,18.0,single,3,8.3,no
+836,Miss,"Compton, Miss. Sara Rebecca",female,39.0,with_family,1,83.1583,yes
+837,Mr,"Pasic, Mr. Jakob",male,21.0,single,3,8.6625,no
+838,Mr,"Sirota, Mr. Maurice",male,29.699118,single,3,8.05,no
+839,Mr,"Chip, Mr. Chang",male,32.0,single,3,56.4958,yes
+840,Mr,"Marechal, Mr. Pierre",male,29.699118,single,1,29.7,yes
+841,Mr,"Alhomaki, Mr. Ilmari Rudolf",male,20.0,single,3,7.925,no
+842,Mr,"Mudd, Mr. Thomas Charles",male,16.0,single,2,10.5,no
+843,Miss,"Serepeca, Miss. Augusta",female,30.0,single,1,31.0,yes
+844,Mr,"Lemberopolous, Mr. Peter L",male,34.5,single,3,6.4375,no
+845,Mr,"Culumovic, Mr. Jeso",male,17.0,single,3,8.6625,no
+846,Mr,"Abbing, Mr. Anthony",male,42.0,single,3,7.55,no
+847,Mr,"Sage, Mr. Douglas Bullen",male,29.699118,with_family,3,69.55,no
+848,Mr,"Markoff, Mr. Marin",male,35.0,single,3,7.8958,no
+849,Mr,"Harper, Rev. John",male,28.0,with_family,2,33.0,no
+850,Mrs,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,29.699118,with_family,1,89.1042,yes
+851,Mr,"Andersson, Master. Sigvard Harald Elias",male,4.0,with_family,3,31.275,no
+852,Mr,"Svensson, Mr. Johan",male,74.0,single,3,7.775,no
+853,Miss,"Boulos, Miss. Nourelain",female,9.0,with_family,3,15.2458,no
+854,Miss,"Lines, Miss. Mary Conover",female,16.0,with_family,1,39.4,yes
+855,Mrs,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44.0,with_family,2,26.0,no
+856,Mrs,"Aks, Mrs. Sam (Leah Rosen)",female,18.0,with_family,3,9.35,yes
+857,Mrs,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45.0,with_family,1,164.8667,yes
+858,Mr,"Daly, Mr. Peter Denis ",male,51.0,single,1,26.55,yes
+859,Mrs,"Baclini, Mrs. Solomon (Latifa Qurban)",female,24.0,with_family,3,19.2583,yes
+860,Mr,"Razi, Mr. Raihed",male,29.699118,single,3,7.2292,no
+861,Mr,"Hansen, Mr. Claus Peter",male,41.0,with_family,3,14.1083,no
+862,Mr,"Giles, Mr. Frederick Edward",male,21.0,with_family,2,11.5,no
+863,Mrs,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48.0,single,1,25.9292,yes
+864,Miss,"Sage, Miss. Dorothy Edith ""Dolly""",female,29.699118,with_family,3,69.55,no
+865,Mr,"Gill, Mr. John William",male,24.0,single,2,13.0,no
+866,Mrs,"Bystrom, Mrs. (Karolina)",female,42.0,single,2,13.0,yes
+867,Miss,"Duran y More, Miss. Asuncion",female,27.0,with_family,2,13.8583,yes
+868,Mr,"Roebling, Mr. Washington Augustus II",male,31.0,single,1,50.4958,no
+869,Mr,"van Melkebeke, Mr. Philemon",male,29.699118,single,3,9.5,no
+870,Mr,"Johnson, Master. Harold Theodor",male,4.0,with_family,3,11.1333,yes
+871,Mr,"Balkic, Mr. Cerin",male,26.0,single,3,7.8958,no
+872,Mrs,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47.0,with_family,1,52.5542,yes
+873,Mr,"Carlsson, Mr. Frans Olof",male,33.0,single,1,5.0,no
+874,Mr,"Vander Cruyssen, Mr. Victor",male,47.0,single,3,9.0,no
+875,Mrs,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28.0,with_family,2,24.0,yes
+876,Miss,"Najib, Miss. Adele Kiamie ""Jane""",female,15.0,single,3,7.225,yes
+877,Mr,"Gustafsson, Mr. Alfred Ossian",male,20.0,single,3,9.8458,no
+878,Mr,"Petroff, Mr. Nedelio",male,19.0,single,3,7.8958,no
+879,Mr,"Laleff, Mr. Kristo",male,29.699118,single,3,7.8958,no
+880,Mrs,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56.0,with_family,1,83.1583,yes
+881,Mrs,"Shelley, Mrs. William (Imanita Parrish Hall)",female,25.0,with_family,2,26.0,yes
+882,Mr,"Markun, Mr. Johann",male,33.0,single,3,7.8958,no
+883,Miss,"Dahlberg, Miss. Gerda Ulrika",female,22.0,single,3,10.5167,no
+884,Mr,"Banfield, Mr. Frederick James",male,28.0,single,2,10.5,no
+885,Mr,"Sutehall, Mr. Henry Jr",male,25.0,single,3,7.05,no
+886,Mrs,"Rice, Mrs. William (Margaret Norton)",female,39.0,with_family,3,29.125,no
+887,Mr,"Montvila, Rev. Juozas",male,27.0,single,2,13.0,no
+888,Miss,"Graham, Miss. Margaret Edith",female,19.0,single,1,30.0,yes
+889,Miss,"Johnston, Miss. Catherine Helen ""Carrie""",female,29.699118,with_family,3,23.45,no
+890,Mr,"Behr, Mr. Karl Howell",male,26.0,single,1,30.0,yes
+891,Mr,"Dooley, Mr. Patrick",male,32.0,single,3,7.75,no
