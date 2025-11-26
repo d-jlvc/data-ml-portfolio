@@ -49,11 +49,9 @@ Key operations:
 - Converting categorical features (Title extraction, family status)  
 - Removing unused or misleading columns  
 - Saving cleaned versions into `/datasets/`  
-- Encoding binary target (`SurvivedBinary`)  
-- Sex, Class, and Fare show the strongest correlation with survival  
-- Age distribution shows a weak relationship  
-- “Women and children first” pattern visible  
-- Family presence slightly increases chance of survival  
+- Encoding binary target (`SurvivedBinary`)    
+- Older people tend to have less heart diseases  
+- Middle aged people tend to have more heart diseases  
 - Visualizations using matplotlib and seaborn libraries  
 
 Evaluated models:
