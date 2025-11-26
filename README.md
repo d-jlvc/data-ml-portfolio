@@ -12,7 +12,11 @@ x_Portfolio/
 │
 ├── Titanic_Dataset/           # Complete end-to-end ML project
 │
+├── Heart_Disease_Dataset/     # Complete end-to-end ML project 
+│
 ├── requirements.txt           # Python dependencies
+│
+├── py_project_initializer.py  # Script for creating folder structure
 │
 └── README.md                  # Main portfolio overview
 ```
@@ -51,6 +55,21 @@ Includes:
 Project folder:  
 ```
 /Titanic_Dataset/
+```
+
+---
+
+##### **Heart_Disease_Datataset**
+A complete ML workflow from raw data to a trained and saved predictive model.  
+Includes:
+- 3 data stages (raw → cleaned → ML-ready)  
+- 1 large notebook (cleaning, visualization, model evaluation)  
+- Trained RandomForest pipeline  
+- Saved model with sample predictions  
+
+Project folder:  
+```
+/Heart_Disease_Dataset/
 ```
 
 ---

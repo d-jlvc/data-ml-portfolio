@@ -1,0 +1,11 @@
+Age,Sex,ChestPain,RestBloodPressure,Cholesterol,FastingBloodSugar,RestECG,MaxHeartRate,ExerciseAngina,OldPeak,PeakSlope,NumMajorVessels,ThaliumStressTest
+56,Male,AtypicalAngina,132,248,NotPresent,Abnormality,163,NotInduced,1.2,Flat,1,NotDescribed
+63,Female,Asymptomatic,147,276,Present,Normal,139,Induced,2.7,Downsloping,2,ReversibleDefect
+49,Male,NonAnginalPain,128,219,NotPresent,Normal,172,NotInduced,0.4,Upsloping,0,Normal
+67,Female,TypicalAngina,154,301,Present,Abnormality,129,Induced,3.3,Downsloping,3,ReversibleDefect
+58,Male,Asymptomatic,139,242,NotPresent,Normal,160,Induced,1.6,Flat,1,FixedDefect
+44,Female,AtypicalAngina,121,205,NotPresent,Normal,178,NotInduced,0.0,Upsloping,0,NotDescribed
+71,Male,Asymptomatic,159,288,Present,Abnormality,132,Induced,2.9,Downsloping,3,ReversibleDefect
+39,Female,TypicalAngina,118,198,NotPresent,Normal,184,NotInduced,0.1,Upsloping,0,Normal
+65,Male,NonAnginalPain,144,273,NotPresent,Abnormality,143,Induced,1.9,Flat,2,FixedDefect
+51,Female,TypicalAngina,132,221,Present,Normal,159,NotInduced,0.7,Upsloping,1,NotDescribed

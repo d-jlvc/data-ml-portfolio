@@ -1,7 +1,7 @@
-### Titanic Dataset – Data Cleaning, Visualization & Machine Learning  
+### Heart Disease Dataset – Data Cleaning, Visualization & Machine Learning  
 #### Author: Danilo Jelovac  
 
-This project focuses on a complete end-to-end workflow applied to the classic **Titanic Dataset**.  
+This project focuses on a complete end-to-end workflow applied to the **Heart Disease Dataset** found on Kaggle.  
 It is structured to reflect real data analysis practices: from raw data, through cleaning and feature engineering and data visualization, to model training and evaluation.
 
 ---
@@ -9,69 +9,52 @@ It is structured to reflect real data analysis practices: from raw data, through
 #### 1) Project Structure
 
 ```
-Titanic_Dataset/
+Heart_Disease_Dataset/
 │
 ├── datasets/
-│   ├── Titanic-Dataset.csv                # Raw dataset
-│   ├── Titanic-Dataset_Cleaned.csv        # After cleaning & prep
-│   ├── Titanic-Dataset_ML_rdy.csv         # Added 'SurvivedBinary'
-│   └── Titanic-Dataset_ML_Train.csv       # Final ML training set
+│   ├── heart_disease_clean.csv            # After cleaning & prep
+│   ├── heart_disease_raw.csv              # Raw dataset
+│   ├── heart_disease_ml.csv               # Added 'SurvivedBinary'
+│   └── model_test_data.csv                # Sample for model testing
 │
 ├── notebooks/
-│   ├── titanic_data_cleaning.ipynb        # Part 1: Cleaning
-│   ├── titanic_data_visualization.ipynb   # Part 2: Visualization
-│   └── titanic_data_ml_eval.ipynb         # Part 3: ML evaluation
+│   ├── heart_disease_eda.ipynb            # Jupyter Notebook, Cleaning, Viz, MachineLearning
 │
 ├── model_source/
 │   ├── train_model.py                     # Training pipeline
 │   └── test_model.py                      # Prediction script
 │
 ├── models/
-│   └── titanic_logisticregression_model.pkl
+│   └── ml_randomforest.pkl                # Best ranked model
 │
 ├── exports/
-│   └── *.html                              # Exported notebooks (optional)
+│   └── *.html                             # Exported notebooks (optional)
 │
-└── README.md
+├── README.md
+│ 
+│ 
+└── requirements.txt                       # Necessary python libraries
 ```
 
 ---
 
-#### Step1. Data Cleaning
+#### Step 1. Data Cleaning, EDA, ML Evaluation
 Performed in  
 ```
-notebooks/titanic_data_cleaning.ipynb
+notebooks/heart_disease_eda.ipynb
 ```
 
 Key operations:
 - Handling missing values  
 - Converting categorical features (Title extraction, family status)  
 - Removing unused or misleading columns  
-- Saving cleaned versions into `/datasets/`
-
----
-
-#### Step2. Exploratory Data Analysis (EDA)
-Performed in  
-```
-notebooks/titanic_data_visualization.ipynb
-```
-
-Highlights:
+- Saving cleaned versions into `/datasets/`  
 - Encoding binary target (`SurvivedBinary`)  
 - Sex, Class, and Fare show the strongest correlation with survival  
 - Age distribution shows a weak relationship  
 - “Women and children first” pattern visible  
 - Family presence slightly increases chance of survival  
 - Visualizations using matplotlib and seaborn libraries  
-
----
-
-#### Step3. Machine Learning Evaluation
-Performed in  
-```
-notebooks/titanic_data_ml_eval.ipynb
-```
 
 Evaluated models:
 - Logistic Regression  
@@ -81,17 +64,16 @@ Evaluated models:
 - Linear SVC  
 
 Results:
-- **Logistic Regression** produced the most stable and interpretable performance.
-
+- **Random Forest** and **Decision Tree** produced the most stable and interpretable performance.
 
 ---
 
-#### Step4. Model Training & Prediction Scripts
+#### Step2. Model Training & Prediction Scripts
 
 **train_model.py**  
 - Loads ML-ready dataset  
 - Applies preprocessing (OneHotEncoder + MinMaxScaler)  
-- Trains Logistic Regression  
+- Trains Random Forest  
 - Saves the model to `/models/`
 
 **test_model.py**  
